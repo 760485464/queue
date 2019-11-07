@@ -14,6 +14,7 @@ public class Lambda {
         list.add(7);
         list.add(8);
         list.add(9);
+        list.add(10);
 
         for (Integer lists : list) {
             System.out.print(lists);
